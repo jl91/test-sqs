@@ -1,0 +1,7 @@
+cloud.aws.sqs.enabled=true
+cloud.aws.sqs.listener.auto-startup=true
+cloud.aws.sqs.listener.back-off-time=10
+cloud.aws.region.static=us-east-1
+cloud.aws.credentials.access-key=
+cloud.aws.credentials.secret-key=
+cloud.aws.sqs.endpoint=
